@@ -10,7 +10,7 @@ The project aims to compile, analyze, and visualize global layoff data to identi
 
 The dashboard is fully functional, featuring all necessary components. It dynamically interacts with all graphs and responds accurately to specific queries.
 
-<p align="Left">
+<p align="Center">
   <img src="Images/Dashboard1.jpg" width="300" height="200" alt="Dashboard Image 1">
   <img src="Images/Dashboard2.jpg" width="300" height="200" alt="Dashboard Image 2">
 </p>
