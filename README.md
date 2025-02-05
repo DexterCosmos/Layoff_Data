@@ -5,30 +5,37 @@
 
 The project aims to compile, analyze, and visualize global layoff data to identify trends, patterns, and insights. It provides a structured dataset for researchers, analysts, and businesses to understand workforce reductions across industries, locations, and time periods. 
 
-<!-- Dashboard Section with 2 Images -->
+<!-- Dashboard Section with Images -->
 ## Dashboard
 
 The dashboard is fully functional, featuring all necessary components. It dynamically interacts with all graphs and responds accurately to specific queries.
 
-<p align="Center">
-  <img src="Images/Dashboard1.jpg" width="300" height="200" alt="Dashboard Image 1">
-  <img src="Images/Dashboard2.jpg" width="300" height="200" alt="Dashboard Image 2">
+<p align="center">
+  <img src="Images/Dashboard1.jpg" width="400" alt="Dashboard Image 1">
 </p>
 
+<p align="center">
+  <img src="Images/Dashboard2.jpg" width="400" alt="Dashboard Image 2">
+</p>
 
-<!-- Visualization Section with 6 Images -->
+<!-- Visualization Section -->
 ## Visualization
 
 <p align="center">
-  <img src="Images/Project1.jpg" width="300" height="200" alt="Visualization Image 1">
-  <img src="Images/Project2.jpg" width="300" height="200" alt="Visualization Image 2">
+  <img src="Images/Project1.jpg" width="400" alt="Visualization Image 1">
 </p>
 
 <p align="center">
-  <img src="Images/Project3.jpg" width="300" height="200" alt="Visualization Image 3">
-  <img src="Images/Project4.jpg" width="300" height="200" alt="Visualization Image 4">
+  <img src="Images/Project2.jpg" width="400" alt="Visualization Image 2">
 </p>
 
+<p align="center">
+  <img src="Images/Project3.jpg" width="400" alt="Visualization Image 3">
+</p>
+
+<p align="center">
+  <img src="Images/Project4.jpg" width="400" alt="Visualization Image 4">
+</p>
 
 <!-- Tools Utilized Section -->
 ## Tools Utilized
