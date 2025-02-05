@@ -23,8 +23,8 @@ The dashboard is fully functional, featuring all necessary components. It dynami
 ## Visualization
 
 <p align="center">
-  <img src="Images/Project1.jpg" width="200" alt="Visualization Image 1">
-  <img src="Images/Project2.jpg" width="200" alt="Visualization Image 2">
+  <img src="Images/Project1.jpg" width="200" height="100" alt="Visualization Image 1">
+  <img src="Images/Project2.jpg" width="200" height="100" alt="Visualization Image 2">
 </p>
 
 <p align="center">
