@@ -1,11 +1,11 @@
 
-<h1 align="center">World Wide layoff</h1>
+<h1 align="center">World wide layoff</h1>
 
 <!-- Visualization Section with 6 Images -->
 ## Visualization
 
 <p align="center">
-  <img src="path/to/image1.png" width="200" alt="Image 1">
+  <img src="images/dashborad1.png" width="200" alt="Image 1">
   <img src="path/to/image2.png" width="200" alt="Image 2">
   <img src="path/to/image3.png" width="200" alt="Image 3">
 </p>
