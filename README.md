@@ -10,32 +10,26 @@ The project aims to compile, analyze, and visualize global layoff data to identi
 
 The dashboard is fully functional, featuring all necessary components. It dynamically interacts with all graphs and responds accurately to specific queries.
 
-<p align="Left">
+<div style="display: flex; justify-content: space-between;">
   <img src="Images/Dashboard1.jpg" width="400" alt="Dashboard Image 1">
-</p>
-
-<p align="Left">
   <img src="Images/Dashboard2.jpg" width="400" alt="Dashboard Image 2">
-</p>
+</div>
+
 
 <!-- Visualization Section -->
 ## Visualization
 
-<p align="Left">
+<div style="display: flex; justify-content: flex-start; gap: 20px;">
   <img src="Images/Project1.jpg" width="400" alt="Visualization Image 1">
-</p>
-
-<p align="Left">
   <img src="Images/Project2.jpg" width="400" alt="Visualization Image 2">
-</p>
+</div>
 
-<p align="Left">
+
+<div style="display: flex; justify-content: flex-start; gap: 20px;">
   <img src="Images/Project3.jpg" width="400" alt="Visualization Image 3">
-</p>
-
-<p align="Left">
   <img src="Images/Project4.jpg" width="400" alt="Visualization Image 4">
-</p>
+</div>
+
 
 <!-- Tools Utilized Section -->
 ## Tools Utilized
