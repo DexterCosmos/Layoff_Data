@@ -1,4 +1,4 @@
-<h1 align="center">World Wide Layoff Report</h1>
+<h1 align="Center">World Wide Layoff Report</h1>
 
 <!-- Description Section -->
 ## Description
@@ -10,30 +10,30 @@ The project aims to compile, analyze, and visualize global layoff data to identi
 
 The dashboard is fully functional, featuring all necessary components. It dynamically interacts with all graphs and responds accurately to specific queries.
 
-<p align="center">
+<p align="Left">
   <img src="Images/Dashboard1.jpg" width="400" alt="Dashboard Image 1">
 </p>
 
-<p align="center">
+<p align="Left">
   <img src="Images/Dashboard2.jpg" width="400" alt="Dashboard Image 2">
 </p>
 
 <!-- Visualization Section -->
 ## Visualization
 
-<p align="center">
+<p align="Left">
   <img src="Images/Project1.jpg" width="400" alt="Visualization Image 1">
 </p>
 
-<p align="center">
+<p align="Left">
   <img src="Images/Project2.jpg" width="400" alt="Visualization Image 2">
 </p>
 
-<p align="center">
+<p align="Left">
   <img src="Images/Project3.jpg" width="400" alt="Visualization Image 3">
 </p>
 
-<p align="center">
+<p align="Left">
   <img src="Images/Project4.jpg" width="400" alt="Visualization Image 4">
 </p>
 
