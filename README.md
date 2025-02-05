@@ -1,18 +1,22 @@
 
-<h1 align="center">World Wide layoff</h1>
+<h1 align="center">World wide layoff report</h1>
+
+## Description
+
+Provide a brief description of the project here. Explain the purpose and goals of the project.
 
 <!-- Visualization Section with 6 Images -->
 ## Visualization
 
 <p align="center">
-  <img src="path/to/image1.png" width="200" alt="Image 1">
-  <img src="path/to/image2.png" width="200" alt="Image 2">
-  <img src="path/to/image3.png" width="200" alt="Image 3">
+  <img src="Images/Project1.jpg" width="200" alt="Image 1">
+  <img src="Images/Project2.jpg" width="200" alt="Image 2">
+  <img src="Images/Project3.jpg" width="200" alt="Image 3">
+  <img src="Images/Project4.jpg" width="200" alt="Image 4">
 </p>
 <p align="center">
-  <img src="path/to/image4.png" width="200" alt="Image 4">
-  <img src="path/to/image5.png" width="200" alt="Image 5">
-  <img src="path/to/image6.png" width="200" alt="Image 6">
+  <img src="Images/Dashboard1.jpg" width="200" alt="Image 4">
+  <img src="Images/Dashboard2.jpg" width="200" alt="Image 5">
 </p>
 
 <!-- Tools Utilized Section -->
@@ -24,11 +28,6 @@
 - **Jupyter Notebook**: For interactive data analysis.
 - **NumPy**: For numerical operations.
 - **Scikit-learn**: For machine learning algorithms.
-
-<!-- Additional Sections -->
-## Description
-
-Provide a brief description of the project here. Explain the purpose and goals of the project.
 
 ## Installation
 
