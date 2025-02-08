@@ -32,3 +32,8 @@ The dashboard is fully functional, featuring all necessary components. It dynami
 
 - **SQL**: For data analysis and data cleaning.
 - **Excel**: For formatting the data and visualizations.
+
+## Author
+
+This project was solely developed by [DexterCosmos]. 
+If you have any questions or require further information, please feel free to reach out.
