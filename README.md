@@ -1,4 +1,4 @@
-<h1 align="Center">World Wide Layoff Report</h1>
+<h1 align="center">World Wide Layoff Report</h1>
 
 <!-- Description Section -->
 ## Description
@@ -15,25 +15,16 @@ The dashboard is fully functional, featuring all necessary components. It dynami
   <img src="Images/Dashboard2.png" width="400" alt="Dashboard Image 2">
 </div>
 
-
 <!-- Visualization Section -->
 ## Visualization
 
-<div style="display: flex; justify-content: flex-start; gap: 20px;">
+<div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
   <img src="Images/project1.png" width="400" alt="Visualization Image 1">
   <img src="Images/project2.png" width="400" alt="Visualization Image 2">
   <img src="Images/project3.png" width="400" alt="Visualization Image 3">
-</div>
-
-
-<div style="display: flex; justify-content: flex-start; gap: 20px;">
   <img src="Images/project4.png" width="400" alt="Visualization Image 4">
-</div>
-
-
-<div style="display: flex; justify-content: flex-start; gap: 20px;">
-  <img src="Images/project5.png" width="400" alt="Visualization Image 3">
-  <img src="Images/project6.png" width="400" alt="Visualization Image 4">
+  <img src="Images/project5.png" width="400" alt="Visualization Image 5">
+  <img src="Images/project6.png" width="400" alt="Visualization Image 6">
 </div>
 
 <!-- Tools Utilized Section -->
