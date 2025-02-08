@@ -22,11 +22,11 @@ The dashboard is fully functional, featuring all necessary components. It dynami
 <div style="display: flex; justify-content: flex-start; gap: 20px;">
   <img src="Images/project1.png" width="400" alt="Visualization Image 1">
   <img src="Images/project2.png" width="400" alt="Visualization Image 2">
+  <img src="Images/project3.png" width="400" alt="Visualization Image 3">
 </div>
 
 
 <div style="display: flex; justify-content: flex-start; gap: 20px;">
-  <img src="Images/project3.png" width="400" alt="Visualization Image 3">
   <img src="Images/project4.png" width="400" alt="Visualization Image 4">
 </div>
 
